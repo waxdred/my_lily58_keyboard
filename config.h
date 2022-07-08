@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   config.h                                           :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: jmilhas <jmilhas@student.42.fr>            +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/07/07 20:08:55 by jmilhas           #+#    #+#             */
+/*   Updated: 2022/07/07 20:09:23 by jmilhas          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 /*
 This is the c configuration file for the keymap
 Copyright 2012 Jun Wako <wakojun@gmail.com>
@@ -47,4 +59,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define OLED_FONT_H "keyboards/lily58/keymaps/frandieguez/logos/glcdfont_cyberpunkbig.c"
 
 #undef PRODUCT
-#define PRODUCT Frandieguez Hacked Lily58 Keyboard
+#define PRODUCT waxcoin Hacked Lily58 Keyboard
